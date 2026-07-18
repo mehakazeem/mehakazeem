@@ -45,4 +45,14 @@ I'm a passionate Frontend Developer from Pakistan who enjoys building modern, re
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my profile!---
+
+## 📊 GitHub Stats
+
+![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehakazeem&show_icons=true&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakazeem&layout=compact&theme=tokyonight)
