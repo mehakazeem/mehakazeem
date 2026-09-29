@@ -1,58 +1,19 @@
- # Hi 👋, I'm Mehak Azeem
+# Hi, I'm Mehak Azeem 🚀
+**Founder & CEO @ NovaShield | Frontend Developer | Future Cyber Security Engineer | AI Developer**
 
-## 💻 Frontend Developer | 🔐 Future Cyber Security Engineer | 🤖 AI Enthusiast
+Building The Future with Code, Security & AI.
 
-I'm a passionate Frontend Developer from Pakistan who enjoys building modern, responsive and user-friendly web applications. I am continuously learning Web Development, Cyber Security and Artificial Intelligence while creating real-world projects.
+### 🔥 My Nova Universe - 11 Projects Live
+| Project | Live Demo | GitHub |
+|---|---|---|
+| NovaPortfolio | [Live](https://codealpha-portfolio-mehak.netlify.app/) | [Code](https://github.com/mehakazeem/NovaPortfolio) |
+| NovaShield | [Live](https://novashield-mehakazeem.netlify.app/) | [Code](https://github.com/mehakazeem/NovaShield) |
+| NovaAI | [Live](https://mehak-ai.netlify.app/) | [Code](https://github.com/mehakazeem/NovaAI) |
+| NovaChat | [Live](https://chat-2026.netlify.app/) | [Code](https://github.com/mehakazeem/NovaChat) |
+| NovaVault | [Live](https://vault-mehakazeem.netlify.app/) | [Code](https://github.com/mehakazeem/NovaVault-Ultimate) |
+| Netflix Clone | [Live](https://mehak-movie-clone.netlify.app/) | [Code](https://github.com/mehakazeem/netflix-clone-tmdb) |
 
----
+### 🛠️ Tech Stack
+HTML5 | CSS3 | JavaScript | Git | GitHub | Cyber Security | AI
 
-## 🚀 About Me
-
-- 🌱 Currently learning **JavaScript, AI & Cyber Security**
-- 💻 Building modern frontend projects
-- 🎯 Goal: Become a Software Engineer
-- 🇵🇰 Based in Pakistan
-- 📚 Always learning new technologies
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
-- Responsive Web Design
-
----
-
-## 🌟 Featured Projects
-
-- 🌐 NovaPortfolio
-- 🔐 NovaShield
-- 🤖 NovaAI
-- 💬 NovaChat
-- 🔑 NovaVault Ultimate
-- 🎬 Netflix Clone
-
----
-
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/mehakazeem
-- 🌐 Portfolio: https://mehakazeem.github.io/NovaPortfolio/
-
----
-
-⭐ Thank you for visiting my profile!---
-
-## 📊 GitHub Stats
-
-![Mehak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehakazeem&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakazeem&layout=compact&theme=tokyonight)
+Let's connect: [LinkedIn](https://linkedin.com) | Portfolio: codealpha-portfolio-mehak.netlify.app 
