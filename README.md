@@ -16,4 +16,4 @@ Building The Future with Code, Security & AI.
 ### 🛠️ Tech Stack
 HTML5 | CSS3 | JavaScript | Git | GitHub | Cyber Security | AI
 
-Let's connect: [LinkedIn](https://linkedin.com) | Portfolio: codealpha-portfolio-mehak.netlify.app 
+Let's connect: [LinkedIn](www.linkedin.com/in/mehak-azeem-958768428) | Portfolio: codealpha-portfolio-mehak.netlify.app 
